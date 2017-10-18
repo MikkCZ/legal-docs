@@ -15,7 +15,7 @@ Tato úvodní část je shrnutím níže uvedených ustanovení. Toto shrnutí s
 
 2. #### Účet Firefoxu
 
-    Pro používání některých Služeb si budete muset založit účet Firefox. Během registrace budete požádáni o nastavení hesla. Jste povinni uchovat své heslo v důvěrnosti a nesete odpovědnost za činnosti prováděné prostřednictvím vašeho účtu Firefoxu. Společnost Mozilla nenese odpovědnost za žádné ztráty, k nimž dojde během neoprávněného používání vašeho účtu Firefoxu.
+    Pro používání některých Služeb si budete muset založit účet Firefoxu. Během registrace budete požádáni o nastavení hesla. Jste povinni uchovat své heslo v důvěrnosti a nesete odpovědnost za činnosti prováděné prostřednictvím vašeho účtu Firefoxu. Společnost Mozilla nenese odpovědnost za žádné ztráty, k nimž dojde během neoprávněného používání vašeho účtu Firefoxu.
 
 3. #### Funkce
 
